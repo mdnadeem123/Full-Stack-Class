@@ -1,1 +1,1 @@
-# full-stack-class
+# Full-Stack-Class
